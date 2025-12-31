@@ -1,7 +1,7 @@
 # 🤖 Bot de Discord Multifuncional – Navidad 🎄
 
 **Autor:** Kevin Bermúdez  
-🎁 Regalo navideño para la comunidad
+🎁 Regalo navideño y año nuevo para la comunidad
 
 Bot de Discord desarrollado con **Discord.js v13**, con **moderación**, **actividades**, **estadísticas del sistema** y **soporte multilenguaje (ES / EN)**.
 
@@ -206,5 +206,5 @@ node_modules/
 ### 🎁 Uso libre.
 - Puedes modificarlo y adaptarlo a tu proyecto.
 
-# ✨ ¡Feliz Navidad y feliz coding! ✨
+# ✨ ¡Feliz Navidad, Feliz Año y feliz coding! ✨
 - 📅 Diciembre 2023 · 🤖 Discord.js v13 · ⚡ Node.js 16+
