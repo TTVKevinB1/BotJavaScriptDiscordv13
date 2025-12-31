@@ -1,0 +1,102 @@
+{
+    "utilies": {
+        "errorEmbed": "Ups, ha ocurrido un error; Inténtalo de nuevo.",
+        "noInvitePerms": "Necesito el permiso de `crear invitaciones` para poder ejecutar este comando de forma correcta.",
+        "unexpectedError": "Ups, ha ocurrido un error inesperado.",
+        "badRequest": "La solicitud ingresada es inválida.",
+        "youNeedMention": "Ups, debes mencionar a un usuario.",
+        "youNeedIdUser": "Ups, debes ingresar el ID del usuario."
+    },
+    "avatar": {
+        "objective": "El avatar es de: **{username}**.",
+        "self": "Tu avatar es:"
+    },
+    "lang": {
+        "newLenguage": "Has seleccionado el lenguaje: **{lang}**.",
+        "noHavePermsAdmin": "No tienes los permisos suficientes para ejecutar este comando.",
+        "botPermsNeedClear": "Necesito permisos de 'MANAGE_MESSAGES' para poder ejecutar este comando.",
+        "botPermsNeedBan": "Necesito permisos de 'BAN_MEMBERS' para poder ejecutar este comando.",
+        "botPermsNeedUnBan": "Necesito permisos de 'BAN_MEMBERS' para poder ejecutar este comando.",
+        "botPermsNeedKick": "Necesito permisos de 'KICK_MEMBERS' para poder ejecutar este comando.",
+        "botPermsNeedUserInfo": "Necesito permisos de 'KICK_MEMBERS' para poder ejecutar este comando.",
+        "botPermsNeedSendMsg": "Necesito permisos de 'SEND_MESSAGES' para poder ejecutar este comando.",
+        "botPermsNeedAdmin": "Necesito permisos de 'ADMINISTRATOR' para poder ejecutar este comando."
+    },
+    "interror": {
+        "interactionError": "Ha surgido un error al intentar ejecutar este comando."
+    },
+    "status": {
+        "obtencion": "Obteniendo status del bot, espere un momento...",
+        "estado": "Estado del bot: **{client}**."
+    },
+    "welgood": {
+        "welcome": "Bienvenido a nuestro servidor de Discord: **{miembro}**.",
+        "goodbye": "Hasta luego: **{miembro}**."
+    },
+    "logs": {
+        "correct": "Se ha configurado el nuevo canal de logs en: **{channel}**."
+    },
+    "help": {
+        "infos": "Información general del bot:"
+    },
+    "info": {
+        "infogeneral": "Este es un bot con múltiples funciones que te podrán ayudar en tu servidor de una forma segura y totalmente agradable."
+    },
+    "ping": {
+        "info": "La latencia de la aplicación es de:"
+    },
+    "sesiones": {
+        "ytloading": "Me encuentro cargando el YouTube...",
+        "chessloading": "Me encuentro cargando el Ajedrez...",
+        "pokerloading": "Me encuentro cargando el Poker...",
+        "betrayalloading": "Me encuentro cargando el betrayal...",
+        "nochannel": "Necesitas estar en un canal de voz para ejecutar este comando correctamente."
+    },
+    "moderation": {
+        "userbanned": "Información del ban:",
+        "userkicked": "Información del kick:",
+        "userobjective": "Haz eliminado una cantidad de: **{messages}** mensajes al usuario: **{usuario}**.",
+        "clearobjective": "Haz eliminado una cantidad de: **{messages}** mensajes.",
+        "infouser": "La información es de: **{username}**.",
+        "myinfo": "Esta es tu información:",
+        "userdesbanned": "Información del desban:",
+        "lockchannel": "Haz bloqueado este canal correctamente.",
+        "unlockchannel": "Haz desbloqueado este canal correctamente."
+    },
+    "kick": {
+        "kreasonNotEspecified": "No se ha especificado una razón.",
+        "kdonthighest": "No puedes sancionar a un usuario mayor o igual rango que tu.",
+        "kusermembermd": "Haz sido expulsado del servidor: **{server}**, razón: **{reason}**"
+    },
+    "ban": {
+        "breasonNotEspecified": "No se ha especificado una razón.",
+        "bdonthighest": "No puedes sancionar a un usuario mayor o igual rango que tu.",
+        "busermembermd": "Haz sido baneado del servidor: **{server}**, razón: **{reason}**"
+    },
+    "unban": {
+        "userNotFound": "El usuario ingresado no se encuentra en la lista de baneos."
+    },
+    "clear": {
+        "more101": "No puedes ingresar más de 100 mensajes a eliminar.",
+        "0ormenos": "Debes al menos ingresar 1 mensaje a eliminar.",
+        "solonums": "Error, solo se permite ingresar números.",
+        "noMore14days": "No puedes eliminar mensajes que superan los 14 días."
+    },
+    "say": {
+        "dicho": "Ha dicho: **{contenido}**"
+    },
+    "reportbug": {
+        "messagecorrect": "Tu reporte se ha enviado con éxito, el cual ha sido: **{reporte}**",
+        "messagesend": "Han reportado un error en el bot, el cual es: **{reporte}**"
+    },
+    "8ball": {
+        "pregunta": "Tu pregunta ha sido: **{pregunta}** | Mi respuesta es: **{respuesta}**"
+    },
+    "eventMessageDelete": {
+        "TitleBorrado": "Un usuario a borrado un mensaje:"
+    },
+    "wiki": {
+        "busqueda": "**{encwiki}**",
+        "error": "Ha surgido un error al intentar ejecutar este comando."
+    }
+}

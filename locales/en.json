@@ -1,0 +1,102 @@
+{
+    "utilies": {
+        "errorEmbed": "Oops, an error has occurred; Please try again.",
+        "noInvitePerms": "I need the permission to 'create invitations' in order to execute this command correctly.",
+        "unexpectedError": "Oops, an unexpected error has occurred.",
+        "badRequest": "The application entered is invalid.",
+        "youNeedMention": "Oops, you must mention a user.",
+        "youNeedIdUser": "Oops, you need to enter the user ID."
+    },
+    "avatar": {
+        "objective": "The avatar is from: **{username}**.",
+        "self": "Your avatar is:"
+    },
+    "lang": {
+        "newLenguage": "You have selected a new language: **{lang}**.",
+        "noHavePermsAdmin": "You do not have sufficient permissions to run this command.",
+        "botPermsNeedClear": "I need 'MANAGE_MESSAGES' permissions to be able to run this command.",
+        "botPermsNeedBan": "I need 'BAN_MEMBERS' permissions to be able to run this command.",
+        "botPermsNeedUnBan": "I need 'BAN_MEMBERS' permissions to be able to run this command.",
+        "botPermsNeedKick": "I need 'KICK_MEMBERS' permissions to be able to run this command.",
+        "botPermsNeedUserInfo": "I need 'MANAGE_MESSAGES' permissions to be able to run this command.",
+        "botPermsNeedSendMsg": "I need 'SEND_MESSAGES' permissions to be able to run this command.",
+        "botPermsNeedAdmin": "I need 'ADMINISTRATOR' permissions to be able to run this command."
+    },
+    "interror": {
+        "interactionError": "An error occurred while trying to run this command."
+    },
+    "status": {
+        "obtencion": "Getting status from the bot, wait a moment...",
+        "estado": "Bot status: **{client}**."
+    },
+    "welgood": {
+        "welcome": "Welcome to our Discord server: **{miembro}**.",
+        "goodbye": "See you later: **{miembro}**."
+    },
+    "logs": {
+        "correct": "The new log channel has been configured in: **{channel}**."
+    },
+    "help": {
+        "infos": "Overview of the bot:"
+    },
+    "info": {
+        "infogeneral": "This is a bot with multiple functions that can help you on your server in a safe and totally pleasant way."
+    },
+    "ping": {
+        "info": "The latency of the application is:"
+    },
+    "sesiones": {
+        "ytloading": "I find myself loading the YouTube...",
+        "chessloading": "I find myself loading the Chess....",
+        "pokerloading": "I find myself loading the Poker...",
+        "betrayalloading": "I find myself carrying the betrayal...",
+        "nochannel": "You need to be on a voice channel to execute this command correctly."
+    },
+    "moderation": {
+        "userbanned": "Ban information:",
+        "userkicked": "Kick information:",
+        "userobjective": "You have deleted a number of: **{messages}** messages to the user: **{usuario}**.",
+        "clearobjective": "You have deleted a number of: **{messages}** messages.",
+        "infouser": "The information is: **{username}**.",
+        "myinfo": "Here's your information:",
+        "userdesbanned": "Information of the desban:",
+        "lockchannel": "You have blocked this channel successfully.",
+        "unlockchannel": "You have successfully unlocked this channel."
+    },
+    "kick": {
+        "kreasonNotEspecified": "A reason has not been specified.",
+        "kdonthighest": "You cannot sanction a user greater than or equal rank as you.",
+        "kusermembermd": "You have been banned from the server: **{server}**, reason: **{reason}**"
+    },
+    "ban": {
+        "breasonNotEspecified": "A reason has not been specified.",
+        "bdonthighest": "You cannot sanction a user greater than or equal rank as you.",
+        "busermembermd": "You have been banned from the server: **{server}**, reason: **{reason}**"
+    },
+    "unban": {
+        "userNotFound": "The user entered is not on the list of bans."
+    },
+    "clear": {
+        "more101": "You cannot enter more than 100 messages to delete.",
+        "0ormenos": "You must enter at least 1 message to delete.",
+        "solonums": "Error, only numbers are allowed to be entered.",
+        "noMore14days": "You can't delete messages that are more than 14 days old."
+    },
+    "say": {
+        "dicho": "He said: **{contenido}**"
+    },
+    "reportbug": {
+        "messagecorrect": "Your report has been sent successfully, which has been: **{reporte}**",
+        "messagesend": "They have reported a bug in the bot, which is: **{reporte}**"
+    },
+    "8ball": {
+        "pregunta": "Your question was: **{pregunta}** | My answer is: **{respuesta}**"
+    },
+    "eventMessageDelete": {
+        "TitleBorrado": "A user has deleted a message:"
+    },
+    "wiki": {
+        "busqueda": "**{encwiki}**",
+        "error": "An error occurred while trying to run this command."
+    }
+}
