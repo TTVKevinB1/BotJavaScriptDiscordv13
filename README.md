@@ -207,4 +207,5 @@ node_modules/
 - Puedes modificarlo y adaptarlo a tu proyecto.
 
 # ✨ ¡Feliz Navidad, Feliz Año y feliz coding! ✨
-- 📅 Diciembre 2023 · 🤖 Discord.js v13 · ⚡ Node.js 16+
+- 📅 Diciembre 2025 · 🤖 Discord.js v13 · ⚡ Node.js 16+
+- Sistema creado por fechas: Sep 16, 2021
